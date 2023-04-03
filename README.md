@@ -1,9 +1,10 @@
-### Hi there 👋
+Born with Ohtahara Syndrome, Cortical Dysplasia, and after donating half her brain to science, Nicolette drove me to learn how to model such complicated processes via mathematics, python, and data science. 
 
-<!--
-**eipiisneg1/eipiisneg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Data Analytics | Python | Machine Learning | Deep Learning | TensorFlow | TensorFlow Probability | Bayesian Inference | Epilepsy | Dynamics | Excel | Word
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
