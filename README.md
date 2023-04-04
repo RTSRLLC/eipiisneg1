@@ -3,9 +3,7 @@
 
 
 
-<img src="url" alt="Alt Text" style="width:400px;height:300px;">
-
-<img src="url" alt="Alt Text" style="width:400px;height:300px;">
+<img src="https://github.com/eipiisneg1/eipiisneg1/blob/678caab409f8d7c7c92330eb5ec24c14af0772d6/nico%20photos/https:/github.com/eipiisneg1/eipiisneg1/blob/main/IMG_0452.JPG" alt="Alt Text" style="width:400px;height:400px;"><img src="https://github.com/eipiisneg1/eipiisneg1/blob/678caab409f8d7c7c92330eb5ec24c14af0772d6/nico%20photos/https:/github.com/eipiisneg1/eipiisneg1/blob/main/IMG_0595.JPG" alt="Alt Text" style="width:400px;height:300px;">
 
 
 
