@@ -14,7 +14,5 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=eipiisneg1&show_icons=true&theme=algolia)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=eipiisneg1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&area_color=5BCDEC&area_opacity=0.2&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eipiisneg1&theme=dark)
 
