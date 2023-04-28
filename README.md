@@ -13,6 +13,5 @@
 ## Data, it's analysis, and it's potential for mankind through AI are my passions, whether it's using it for epilepsy, product analysis, sales forecasting or  nature, the answer is found in the numerical patterns in the data, or through its mathematical transformations. 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=eipiisneg1&show_icons=true&theme=algolia)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eipiisneg1&theme=dark)
 
