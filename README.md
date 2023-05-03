@@ -6,7 +6,7 @@
 
 ## These experiences drove me to learn how to model such complicated processes via mathematics, python, and data science. 
 
-## Today, as a data scientist, husband, and father, my personal and professional interests are designing AI models to understand these terrible disorders and help fins answers for those, who like me, watch their wife and youngest daughter have seizures every day. 
+## Today, as a data scientist, husband, and father, my personal and professional interests are designing AI models to understand these terrible disorders and help find answers for those, who like me, watch their wife and youngest daughter have seizures every day. 
 
 <img src="https://github.com/eipiisneg1/eipiisneg1/blob/72cf5dfa2d5bb3f13ed709c3861019937e175105/nico%20photos/https:/github.com/eipiisneg1/eipiisneg1/blob/main/IMG_1085.jpeg" alt="Alt Text" style="width:270px;height:330px;"><img src="https://github.com/eipiisneg1/eipiisneg1/blob/678caab409f8d7c7c92330eb5ec24c14af0772d6/nico%20photos/https:/github.com/eipiisneg1/eipiisneg1/blob/main/Image%204-3-23%20at%2022.20.jpg" alt="Alt Text" style="width:270px;height:330px;"><img src="https://github.com/eipiisneg1/eipiisneg1/blob/678caab409f8d7c7c92330eb5ec24c14af0772d6/nico%20photos/https:/github.com/eipiisneg1/eipiisneg1/blob/main/68125423172__8C371224-70B7-41DC-9A35-79C382E58FBC.jpeg" alt="Alt Text" style="width:270px;height:330px;">
 
